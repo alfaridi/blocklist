@@ -12,7 +12,7 @@
 # Create an issue at https://github.com/AdAway/adaway.github.io/issues
 # Description: Domains classified as malware, phishing or adware
 # Description: Domains classified as tracking or advertising
-# Domain Count: 14857
+# Domain Count: 14879
 # Domain Count: 294
 # Fetch the latest version of this file:
 # First-party trackers host list
@@ -38,7 +38,7 @@
 # Subsequent rules: asns: 6, hostnames: 13992, ip4s: 64, zones: 48
 # Title: NoTrack Malware Blocklist
 # Title: NoTrack Tracker Blocklist
-# Updated: 19 Jul 2022
+# Updated: 20 Jul 2022
 # Variant: first-party trackers
 # [163.com]
 # [1mobile.com]
@@ -23683,7 +23683,6 @@ africa.mcafeepaying.com
 africa.todayusa.org
 africa.usabbs.org
 africadb.arrowservice.net
-aftv-serving.bid #Bebi - Advertising
 afw.globalowa.com
 agafurretor.com #Unknown - Advertising
 agentanalytics.com #agentanalytics.com - Tracker
@@ -25120,6 +25119,25 @@ eyeviewads.com #EyeView - Advertising
 ezodn.com #Ezoic - Tracker
 ezoic.com #Ezoic - Advertising
 ezoic.net #Ezoic - Tracker
+f-log-at.grammarly.io #Grammarly - Tracker
+f-log-balto.grammarly.io #Grammarly - Tracker
+f-log-csp.grammarly.io #Grammarly - Tracker
+f-log-editor-debug.grammarly.io #Grammarly - Tracker
+f-log-editor.grammarly.com #Grammarly - Tracker
+f-log-editor.grammarly.io #Grammarly - Tracker
+f-log-extension.grammarly.io #Grammarly - Tracker
+f-log-features-ci.grammarly.io #Grammarly - Tracker
+f-log-js-plugin.grammarly.io #Grammarly - Tracker
+f-log-mac-extension.grammarly.io #Grammarly - Tracker
+f-log-mobile-ios.grammarly.io #Grammarly - Tracker
+f-log-mobile.grammarly.io #Grammarly - Tracker
+f-log-officeaddin.grammarly.io #Grammarly - Tracker
+f-log-officeaddinjs.grammarly.io #Grammarly - Tracker
+f-log-support.grammarly.io #Grammarly - Tracker
+f-log-test.grammarly.io #Grammarly - Tracker
+f-log-win-extension.grammarly.io #Grammarly - Tracker
+f-log-wrex.grammarly.io #Grammarly - Tracker
+f-log.grammarly.io #Grammarly - Tracker
 f-mi.purpledaily.com
 f3tel.bigish.net
 face.firefoxupdata.com
@@ -25155,6 +25173,7 @@ fbot.me #Friendbuy - Tracker
 fcn.hugesoft.org
 fed.purpledaily.com
 feedbackify.com #Feedbackify - Advertising
+femetrics.grammarly.io #Grammarly - Tracker
 ferventhoaxresearch.com #AdMeasures - Advertising
 fetchback.com #eBay - Advertising
 ffej.newsonet.net
@@ -26079,7 +26098,6 @@ logservice-dra.platform.hicloud.com #hicloud.com - Tracker
 logservice-drru.dt.hicloud.com #hicloud.com - Tracker
 logsss.com #Unknown - Tracker
 logtransform.hicloud.com #hicloud.com - Tracker
-loidjony.net #Adware Lnkr - Malware
 lone.infosupports.com
 lonelyfix.com #Adware Lnkr - Malware
 longabeach.com #Unknown Chinese - Tracker
@@ -27872,6 +27890,7 @@ mkt1140.com #IBM Silverpop - Advertising
 mkt11400.com #IBM Silverpop - Advertising
 mkt11402.com #IBM Silverpop - Advertising
 mkt11404.com #IBM Silverpop - Advertising
+mkt11405.com #IBM Silverpop - Advertising
 mkt11406.com #IBM Silverpop - Advertising
 mkt11407.com #IBM Silverpop - Advertising
 mkt1141.com #IBM Silverpop - Advertising
@@ -37098,6 +37117,7 @@ n-core-pipe.com #Lead Forensics - Tracker
 n214adserv.com #Epom - Tracker
 na.bigdepression.net
 na.msnhome.org
+naklafshtabuk.com #Emotet - Malware
 namesurf.net #HoneyTracks - Tracker
 nanigans.com #Unknown - Tracker
 nanogardens.tech #Unknown Chinese - Tracker
@@ -38711,6 +38731,7 @@ smetrics.lululemon.com #Adobe - Tracker
 smetrics.lululemon.com.au #Adobe - Tracker
 smetrics.lululemon.com.hk #Adobe - Tracker
 smetrics.lululemon.de #Adobe - Tracker
+smetrics.lululemon.es #Adobe - Tracker
 smetrics.lww.com #Adobe - Tracker
 smetrics.m1.com.sg #Adobe - Tracker
 smetrics.magnumicecream.com #Adobe - Tracker
@@ -39677,6 +39698,7 @@ tracking.rus.miui.com #Miui - Tracker
 tracking.sezzle.com #Sezzle.Com - Tracker
 tracking.shopstyle.co.uk #shopstyle.co.uk - Tracker
 tracking.shopstyle.com #First Party - Tracker
+tracking.unrealengine.com #First Party - Tracker
 tracking.websitealive.com #Websitealive.Com - Tracker
 tracking.wetter.at #wetter.at - Tracker
 tracking.wpnetwork.eu #Unknown - Tracker
